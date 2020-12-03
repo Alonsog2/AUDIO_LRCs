@@ -1,0 +1,21 @@
+Datos del repositorio remoto:
+	https://github.com/alonsog2/AUDIO_LRCs
+
+Actualizar respositorio remoto en GitHub:
+	Abrir "Git GUI Here" en la carpeta AUDIO_LRCs
+	"Stage changed"
+	"Commit"
+	"Push"
+
+Actualizar respositorio en PC remoto:
+	Previo: Instalar GIT for windows
+	Ejecutar
+		CMD y situarse en la carpeta 'padre' donde se clonará el repositorio
+	Ejecutar
+		git clone https://github.com/alonsog2/AUDIO_LRCs
+	Copiar (para crear luego acceso directo) 'actualizar(PC-Remoto).bat' localizado en AUDIO_LRCs
+	Ejecutar
+		shell:startup
+	Pegar acceso directo (en la carpeta startup del usuario)
+
+	
