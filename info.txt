@@ -17,3 +17,4 @@ Actualizar respositorio en PC remoto:
 	Ejecutar
 		shell:startup
 	Pegar acceso directo (en la carpeta startup del usuario)
+
