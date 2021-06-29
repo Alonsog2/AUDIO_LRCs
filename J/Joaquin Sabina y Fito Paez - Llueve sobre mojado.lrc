@@ -1,55 +1,125 @@
-[ar:Joaquin Sabina y Fito Paez]
+﻿[ar:Joaquin Sabina y Fito Paez]
 [ti:Llueve sobre mojado]
 [al:Enemigos intimos]
-[00:00.00]Hay una lágrima en el fondo del río
-[00:06.00]de los desesperados,
-[00:12.00]Adán y Eva no se adaptan al frío
-[00:18.00]llueve sobre mojado.
-[00:24.00]Bla, bla, bla, bla, bla, bla, bla,
-[00:30.00]ya no sabe a pecado,
-[00:36.00]bla, bla, bla, bla, bla, bla, bla,
-[00:42.00]llueve sobre mojado.
-[00:48.00]Al asesino de la cola del cine
-[00:54.00]El Padrino Dos le ha decepcionado,
-[01:00.00]Los violadores huyen de los jardines,
-[01:06.00]Llueve sobre mojado.
-[01:12.00]Bla, bla, bla, bla, bla, bla, bla,
-[01:18.00]sueños equivocados,
-[01:24.00]Bla, bla, bla, bla, bla, bla, bla,
-[01:30.00]llueve sobre mojado.
-[01:36.00]Y, después de llover,
-[01:42.00]Un relámpago va
-[01:48.00]deshaciendo la oscuridad
-[01:54.00]con besos, que antes de nacer,
-[02:00.00]morirán.
-[02:06.00]Ayer Julieta denunciaba a Romeo,
-[02:12.00]Por malos tratos, en el juzgado,
-[02:18.00]cuando se acuestan la razón y el deseo
-[02:24.00]llueve sobre mojado.
-[02:30.00]Bla, bla, bla, bla, bla, bla, bla,
-[02:36.00]cosas de enamorados,
-[02:42.00]bla, bla, bla, bla, bla, bla, bla,
-[02:48.00]llueve sobre mojado.
-[02:54.00]La última guerra fue con mando a distancia,
-[03:00.00]el dormitorio era un vagón de soldados
-[03:06.00]por más que llueva y valga la redundancia,
-[03:12.00]llueve sobre mojado.
-[03:18.00]Bla, bla, bla, bla, bla, bla, bla,
-[03:24.00]uno y uno son demasiados,
-[03:30.00]bla, bla, bla, bla, bla, bla, bla,
-[03:36.00]llueve sobre mojado.
-[03:42.00]Y, al final, sale un sol
-[03:48.00]incapaz de curar
-[03:54.00]las heridas de la ciudad,
-[04:00.00]Y se acostumbra el corazón
-[04:06.00]a olvidar.
-[04:12.00]Dormir contigo es estar solo dos veces,
-[04:18.00]es la soledad al cuadrado,
-[04:24.00]todos los sábados son martes y trece,
-[04:30.00]todo el año llueve sobre mojado.
-[04:36.00]Bla, bla, bla, bla, bla, bla, bla,
-[04:42.00]cada cual por su lado,
-[04:48.00]bla, bla, bla, bla, bla, bla, bla,
-[04:54.00]llueve sobre mojado
-[05:00.00]Y... colorín colorado,
-[05:06.00]este cuento se ha terminado
+[00:00.00]D, C, G (X3) A7
+[00:00.00]
+[00:00.00]D                      E7
+[00:00.00] Hay una lagrima en el fondo del río
+[00:00.00]A7              D     Dsus4
+[00:00.00] de los desesperados,
+[00:00.00]D                  E7
+[00:00.00] Adán y Eva no se adaptan al frío
+[00:00.00]A7               D
+[00:00.00] llueve sobre mojado.
+[00:00.00]
+[00:00.00]
+[00:00.00]                     Gmaj7      Em7
+[00:00.00] Bla, bla, bla, bla, bla, bla, bla,
+[00:00.00] A7             D
+[00:00.00] ya no sabe a pecado,
+[00:00.00]                      Gmaj7      Em7
+[00:00.00] bla, bla, bla, bla, bla, bla, bla,
+[00:00.00] A7             D    Dsus4
+[00:00.00] llueve sobre mojado.
+[00:00.00]
+[00:00.00]
+[00:00.00]D                 E7
+[00:00.00] Al asesino de la cola del cine
+[00:00.00]    A7                        D     Dsus4
+[00:00.00] El Padrino Dos le ha decepcionado,
+[00:00.00]D                    E7
+[00:00.00] Los violadores huyen de los jardines,
+[00:00.00]A7               D
+[00:00.00] Llueve sobre mojado.
+[00:00.00]
+[00:00.00]                      Gmaj7      Em7
+[00:00.00] Bla, bla, bla, bla, bla, bla, bla,
+[00:00.00] A7            D
+[00:00.00] sueños equivocados,
+[00:00.00]                   Gmaj7      Em7
+[00:00.00] Bla, bla, bla, bla, bla, bla, bla,
+[00:00.00] A7             F#m
+[00:00.00] llueve sobre mojado.
+[00:00.00]
+[00:00.00]            F#m7/F 
+[00:00.00] Y después de llover,
+[00:00.00]         F#m7/E
+[00:00.00] Un relámpago va
+[00:00.00]                      B7/D#
+[00:00.00] deshaciendo la oscuridad
+[00:00.00] /D     /C#    /C     /B   E
+[00:00.00] con besos, que antes de nacer,
+[00:00.00]    A7
+[00:00.00] morirán.
+[00:00.00]
+[00:00.00]
+[00:00.00]G                   A7
+[00:00.00] Ayer Julieta denunciaba a Romeo,
+[00:00.00]     G                            Gsus4
+[00:00.00] Por malos tratos, en el juzgado,
+[00:00.00]G                         A7
+[00:00.00] cuando se acuestan la razón y el deseo
+[00:00.00] D7              G
+[00:00.00] llueve sobre mojado.
+[00:00.00]
+[00:00.00]                     Cmaj7     Am7
+[00:00.00] Bla, bla, bla, bla, bla, bla, bla,
+[00:00.00]     D7        G
+[00:00.00] cosas de enamorados,
+[00:00.00]                      Cmaj7     Am7
+[00:00.00] bla, bla, bla, bla, bla, bla, bla,
+[00:00.00]   D7           G    Gsus4
+[00:00.00] llueve sobre mojado.
+[00:00.00]
+[00:00.00]
+[00:00.00]G                          A7
+[00:00.00] La última guerra fue con mando a distancia,
+[00:00.00]         D7                       G         Gsus4
+[00:00.00] el dormitorio era un vagón de soldados
+[00:00.00]
+[00:00.00]G                          A7
+[00:00.00] por más que llueva y valga la redundancia,
+[00:00.00] D7             G
+[00:00.00] llueve sobre mojado.
+[00:00.00]
+[00:00.00]
+[00:00.00]                       Cmaj7      Am7
+[00:00.00] Bla, bla, bla, bla, bla, bla, bla,
+[00:00.00]        D7         G
+[00:00.00] uno y uno son demasiados,
+[00:00.00]                   Cmaj7       Am7
+[00:00.00] bla, bla, bla, bla, bla, bla, bla,
+[00:00.00]   D7           Bm
+[00:00.00] llueve sobre mojado.
+[00:00.00]
+[00:00.00]
+[00:00.00]                 Bm7/Bb 
+[00:00.00] Y, al final, sale un sol
+[00:00.00]              Bm7/A
+[00:00.00] incapaz de curar
+[00:00.00]                  E/G#
+[00:00.00] las heridas de la ciudad,
+[00:00.00] /G    /F# /F  /E   A
+[00:00.00] Y se acostumbra el corazón
+[00:00.00]      D
+[00:00.00] a olvidar.
+[00:00.00]
+[00:00.00]
+[00:00.00]D                        E7
+[00:00.00] Dormir contigo es estar solo dos veces,
+[00:00.00]A7                     D    Dsus4
+[00:00.00] es la soledad al cuadrado,
+[00:00.00]D                       E7
+[00:00.00] todos los sábados son martes y trece,
+[00:00.00]A7                           D
+[00:00.00] todo el año llueve sobre mojado.
+[00:00.00]
+[00:00.00]
+[00:00.00]                    Gmaj7       E#m
+[00:00.00] Bla, bla, bla, bla, bla, bla, bla,
+[00:00.00]  A7              D
+[00:00.00] cada cual por su lado,
+[00:00.00]                      Gmaj7     E#m
+[00:00.00] bla, bla, bla, bla, bla, bla, bla,
+[00:00.00]   A7           D
+[00:00.00] llueve sobre mojado
