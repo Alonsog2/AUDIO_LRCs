@@ -4,4 +4,6 @@ git add ./\*
 git commit -m "act"
 git push
 echo
+pause
+
 
