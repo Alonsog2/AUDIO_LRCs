@@ -1,21 +1,31 @@
 ﻿[ar:NUEVO MESTER DE JUGLARIA]
 [ti:La Mosca Y La Mora]
 [al:Todas Sus Grabaciones (1978-19]
+[img:]
 [00:00.00]C                 F    C  
 [00:03.00]Estaba la mora en su lugar,
 [00:06.00]                   F    C  
 [00:09.00]Vino la mosca y le hizo mal,
 [00:12.00]              G  
 [00:15.00]La mosca a la mora,
-[00:18.00]     G       F      Em   Dm  C     
+[00:18.00]     G       F      C/E  G/D C     
 [00:21.00]Y la mora en su moralito so  la.
 [00:24.00]C  
+<<<<<<< HEAD
+[00:27.00]Estaba la mosca en su lugar, vino la araña y le hizo mal,
+[00:30.00]la araña a la mosca, la mosca a la mora,
+[00:33.00]     G       F      C/E  G/D C     
+[00:36.00]Y la mora en su moralito so  la.
+[00:39.00]Estaba la araña en su lugar, vino el ratón y le hizo mal,
+[00:42.00]el ratón a la araña, la araña a la mosca, la mosca a la mora,
+=======
 [00:27.00]Estaba la mosca en su lugar, vino la araÃ±a y le hizo mal,
 [00:30.00]la araÃ±a a la mosca, la mosca a la mora,
 [00:33.00]     G       F      Em   Dm  C     
 [00:36.00]Y la mora en su moralito sola.
 [00:39.00]Estaba la araÃ±a en su lugar, vino el ratÃ³n y le hizo mal,
 [00:42.00]el ratÃ³n a la araÃ±a, la araÃ±a a la mosca, la mosca a la mora,
+>>>>>>> 5b26c0dfda38cacffc4d7d4cc68a1fda6070c616
 [00:45.00]Y la mora en su moralito sola.
 [00:48.00]Estaba el ratÃ³n en su lugar, vino el gato y le hizo mal,
 [00:51.00]el gato al ratÃ³n, el ratÃ³n a la araÃ±a,
@@ -57,6 +67,12 @@
 [02:39.00]Estaba el herrero en su lugar, vino la muerte y le hizo mal,
 [02:42.00]la muerte al herrero, el herrero al cuchillo, el cuchillo al buey,
 [02:45.00]el buey al agua, el agua a la lumbre, la lumbre al palo,
+<<<<<<< HEAD
+[02:48.00]el palo al perro, el perro al gato, el gato al ratón,
+[02:51.00]el ratón a la araña, la araña a la mosca, la mosca a la mora,
+[02:54.00]Y la mora en su moralito sola.
+=======
 [02:48.00]el palo al perro, el perro al gato, el gato al ratÃ³n,
 [02:51.00]el ratÃ³n a la araÃ±a, la araÃ±a a la mosca, la mosca a la mora,
 [02:54.00]Y la mora en su moralito sola.
+>>>>>>> 5b26c0dfda38cacffc4d7d4cc68a1fda6070c616
