@@ -47,3 +47,4 @@ Write-Host "`n✅ Commit creado con todos los archivos actuales:" -ForegroundCol
 git show --stat HEAD
 
 Write-Host "`n✨ Proceso completado correctamente." -ForegroundColor Cyan
+Read-Host "Presiona Enter para continuar..."
